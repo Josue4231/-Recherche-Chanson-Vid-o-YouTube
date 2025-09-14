@@ -9,9 +9,6 @@ Une application web permettant de **rechercher des chansons ou artistes**, et d�
 ![Page d'accueil](screenshots/home.png)  
 *Page principale avec champ de recherche et boutons de catégorie.*
 
-![Résultats MP3](screenshots/mp3_result.png)  
-*Si le MP3 local est trouvé, le lecteur audio apparaît.*
-
 ![Résultats YouTube](screenshots/youtube_result.png)  
 *Si le MP3 local n’existe pas, les vidéos YouTube correspondantes sont affichées.*
 
@@ -68,3 +65,7 @@ Une application web permettant de **rechercher des chansons ou artistes**, et d�
 
 ```javascript
 const apiKey = 'VOTRE_CLE_API';
+
+Resultat final 
+
+github.io : https://josue4231.github.io/-Recherche-Chanson-Vid-o-YouTube/
